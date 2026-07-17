@@ -1,0 +1,6 @@
+~*
+.DS_Store
+\#auto_saved_files#
+hardware/pacer-backups
+hardware/fp-info-cache
+.worktrees/
