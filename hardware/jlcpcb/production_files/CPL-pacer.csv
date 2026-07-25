@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,138.6,-92.0,90.0,top
+C2,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,93.2,-87.775,180.0,top
+C3,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,92.8,-92.575,180.0,top
+C4,30p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.4,-87.99,180.0,top
+C5,30p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.97,-93.79,180.0,top
+D5,D,SOD-123FL,100.6,-90.8,-90.0,top
+R1,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,90.2,-88.0875,-90.0,top
+R2,1.2k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,101.5,-87.6,180.0,top
+R3,5.6k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,147.6,-91.5,-90.0,top
+RN1,4.7k,R_Array_Convex_4x0603,130.4,-100.0,180.0,top
+RN2,4.7k,R_Array_Convex_4x0603,122.86,-100.0,180.0,top
+RN3,4.7k,R_Array_Convex_4x0603,109.6,-100.0,180.0,top
+RN4,4.7k,R_Array_Convex_4x0603,102.54,-100.0,180.0,top
+RN5,4.7k,R_Array_Convex_4x0603,92.38,-100.0,180.0,top
+RN6,1k,R_Array_Convex_4x0603,143.25,-100.0,90.0,top
+U1,CH32V003FxPx,TSSOP-20_4.4x6.5mm_P0.65mm,143.0,-89.8,270.0,top
+U2,XCL103D333CR-G,CL2025-02,93.2,-90.175,180.0,top
+U3,BU4210G-TR,SSOP5,87.6,-90.175,180.0,top
+U4,74HC595,SOIC-16_3.9x9.9mm_P1.27mm,132.8,-109.2,180.0,top
+U5,74HC595,SOIC-16_3.9x9.9mm_P1.27mm,116.52,-109.2,180.0,top
+U6,74HC595,SOIC-16_3.9x9.9mm_P1.27mm,96.2,-109.2,180.0,top
+Y1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,135.97,-90.9,-90.0,top

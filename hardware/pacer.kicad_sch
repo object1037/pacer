@@ -7449,7 +7449,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1aa86ac1-42b4-41f2-9f31-cc4b1af198a8")
@@ -7832,7 +7832,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8879,7 +8879,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9481,7 +9481,7 @@
 		(at 95.25 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9701,7 +9701,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9793,7 +9793,7 @@
 		(at 44.45 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "98edf84d-030d-4293-9abb-2f576ee2a0c8")
@@ -10158,7 +10158,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 198.12 27.94 90)
 			(effects
 				(font
@@ -10298,7 +10298,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a50cabef-f992-4046-9cff-3704a00bdec7")
@@ -10911,7 +10911,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.2k"
 			(at 55.88 149.86 90)
 			(effects
 				(font
@@ -11356,7 +11356,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "5.6k"
 			(at 163.83 25.4 90)
 			(effects
 				(font
