@@ -1,4 +1,4 @@
-# BOM for handsolder components
+# BOM for handsolder/assembly
 
 ## Akizuki
 
@@ -17,3 +17,6 @@ Use https://akizukidenshi.com/catalog/quickorder/blanketorder.aspx
 
 - Pinheader (or conthrough) 2x2P
 - AA battery
+- 3DP case
+- M2 x 3mm x 3mm insert nut x2
+- M2 x 10mm screw x2
